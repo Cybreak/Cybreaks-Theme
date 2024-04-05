@@ -1,3 +1,3 @@
 # Cybreaks-Theme
 
-![v6 Sapphire](https://i.imgur.com/a/BUSDpSo)
+![Example](https://github.com/Cybreak/Cybreaks-Theme/blob/main/Example.png?raw=true)
