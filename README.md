@@ -1,3 +1,3 @@
 # Cybreaks-Theme
 
-![v6 Sapphire](https://imgur.com/a/BUSDpSo)
+![v6 Sapphire](https://i.imgur.com/a/BUSDpSo)
